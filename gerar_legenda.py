@@ -43,3 +43,4 @@ def formatar_tempo(segundos):
 if __name__ == "__main__":
     caminho_video = input("Digite o caminho do vídeo: ")
     traduzir_legenda(caminho_video)
+    
